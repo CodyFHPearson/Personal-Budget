@@ -4,7 +4,7 @@ link to download: https://ln5.sync.com/dl/c4fa35730/ev4ehr8h-r5f4t3k5-r8hthyaw-7
 
 ## Settings
 
-![image-20240813154316988](C:\Users\Cody\AppData\Roaming\Typora\typora-user-images\image-20240813154316988.png)
+![Settings](C:\Users\Cody\Desktop\Projects\personal_budget\Settings.png)
 
 The first sheet in the workbook is a settings sheet. Here you can specify the starting year which is the year you wish to begin tracking. Also, you can choose to activate or deactivate the shift late income feature, and what day you would like to start shifting late income. This feature is useful if you happen to receive income late in the month and want it to count towards next months income. 
 
