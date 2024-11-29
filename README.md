@@ -1,6 +1,6 @@
 # Personal Budget
-​	This is a budget Excel workbook I created for personal use, as well as to demonstrate my proficiency in Excel. In the first section, I will describe how to use the workbook and explain the basic premise behind it. In the second section (to be added later), I will go into greater detail about how I created each sheet. I also plan to add more features in the future, including a debt-specific dashboard.
-link to download: https://ln5.sync.com/dl/c4fa35730/ev4ehr8h-r5f4t3k5-r8hthyaw-7uihq7ep
+​	This is a budget Excel workbook I created for personal use, as well as to demonstrate my proficiency in Excel. I will describe how to use the workbook and explain the basic premise behind it. I may decide to go more in depth in the future into some of the specific formulas used to create this project, however for now I will leave this as a basic tutorial. I also plan to add more features in the future, including a debt-specific dashboard.
+link to download: https://ln5.sync.com/dl/9c9756420#vtk9nasn-hhud8j73-tyw27wxw-rx6up689
 
 ## Section 1
 
@@ -24,18 +24,24 @@ link to download: https://ln5.sync.com/dl/c4fa35730/ev4ehr8h-r5f4t3k5-r8hthyaw-7
 
 ![](https://github.com/CodyFHPearson/Personal-Budget/blob/main/budget_tracking.png)
 
-​	This is where all the day-to-day transactions will be recorded. There are dropdown lists and data validation rules for the first three columns to ensure accurate records. The different amounts entered are also color-coded for easy reference. As shown in the image above, the records do not need to be entered in sequential order for the balance to be correct; however, with the filter button on the date column, it is easy to re-sort them. The effective date column will only become active when the shift late income feature is enabled, shifting all dates after the starting shift date to the first of the next month.
+​	This is where all the day-to-day transactions will be recorded. There are dropdown lists and data validation rules for the first three columns to ensure accurate records. The different amounts entered are also color-coded for easy reference. As shown in the image above, the records do not need to be entered in sequential order for the balance to be correct, and with the filter button on the date column, it is easy to re-sort them. The effective date column will only become active when the shift late income feature is enabled, shifting all dates after the starting shift date to the first of the next month.
 
 ### Budget Dashboard
 
 ![](https://github.com/CodyFHPearson/Personal-Budget/blob/main/budget_dashboard.png)
 
-​	The budget dashboard sheet pulls data from the budget planning and budget tracking sheets to provide a comprehensive look at what went well—or not so well—in the budget. You can view each month individually or see a total year overview using the dropdown menus in the top right-hand corner.
+​	The budget dashboard sheet pulls data from the budget planning and budget tracking sheets to provide a comprehensive look at what went well-or not so well-in the budget. It is possible to view each month individually, or see a total year overview using the dropdown menus in the top right-hand corner.
 
-##  Section 2
+##  Section 2 (Under the Hood)
 
 Coming soon. 
 
+## Update 1
+
+![](https://github.com/CodyFHPearson/Personal-Budget/blob/main/Budget%20vs%20Tracked%20.png)
+
+​	In this update, I added a chart to visualize the budgeted and tracked amounts for the different categories. The darker shades represent an excess amount, indicating that you spent, saved, or earned more than anticipated. The lighter shades represent the remaining budget that is still available. Finally, the "regular" shades represent the amount spent, saved, or earned within the allocated budget. Additionally, there are checkboxes to toggle the visibility of the different categories as well as the overall budget.
+
 ## Conclusion
 
-Thank you for taking the time to explore this project! If you choose to use this personal budget, I hope it serves you well. Your feedback would be greatly appreciated.
+​	Thank you for taking the time to explore this project! If you choose to use this personal budget, I hope it serves you well. Your feedback would be greatly appreciated.
